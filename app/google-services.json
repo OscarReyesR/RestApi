@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35776863036",
+    "project_id": "curso-android-ieca-329c2",
+    "storage_bucket": "curso-android-ieca-329c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35776863036:android:f4c7aa578ddec9e214dc39",
+        "android_client_info": {
+          "package_name": "com.example.navigationmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35776863036-lmsvjs7qhtk0clg8d8vk92f0en2slj65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDshubDncHrFniyqRGj0YFHmEIBUPuiJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35776863036-lmsvjs7qhtk0clg8d8vk92f0en2slj65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

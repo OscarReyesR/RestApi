@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group
+    android:checkableBehavior="single">
+    <item
+        android:id="@+id/courseSummary"
+        android:icon="@drawable/baseline_waterfall_chart_24"
+        android:title="Resumen del curso"/>
+    <item
+        android:id="@+id/rules"
+        android:icon="@drawable/baseline_rule_24"
+        android:title="Reglamento"/>
+    <item
+        android:id="@+id/classAgenda"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:title="Temario"/>
+    <item
+        android:id="@+id/sessions"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="Sesiones"/>
+    <item
+        android:id="@+id/logOut"
+        android:icon="@drawable/baseline_logout_24"
+        android:title="Cerrar Sesión"/>
+</group>
+</menu>
